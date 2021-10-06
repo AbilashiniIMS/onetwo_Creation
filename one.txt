@@ -1,0 +1,4 @@
+one.txt file added 
+
+using notepadd adding some txt
+now using editior
